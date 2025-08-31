@@ -89,14 +89,6 @@ streamlit run app.py
 
 ---
 
-## 📊 Example Results
-
-| Original                   | Colorized + Enhanced        | Daltonized                   |
-| -------------------------- | --------------------------- | ---------------------------- |
-| ![orig](docs/original.png) | ![proc](docs/processed.png) | ![dalt](docs/daltonized.png) |
-
----
-
 ## ❗ Troubleshooting
 
 * **Model not loading** → Check file paths in `app.py` for `.keras` and `.pth` models.
