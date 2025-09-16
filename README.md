@@ -104,5 +104,5 @@ streamlit run app.py
 * [ ] Deploy as a web app (FastAPI + Streamlit Cloud)
 
 ## Licence
-This project is licensed under the MIT License - see Licence file for details.
+This project is licensed under the MIT LICENCE - see Licence file for details.
 
