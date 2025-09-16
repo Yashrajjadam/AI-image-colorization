@@ -103,4 +103,6 @@ streamlit run app.py
 * [ ] Add multiple Daltonization modes (Protanopia, Deuteranopia, Tritanopia)
 * [ ] Deploy as a web app (FastAPI + Streamlit Cloud)
 
+## Licence
+This project is licensed under the MIT License - see Licence file for details.
 
