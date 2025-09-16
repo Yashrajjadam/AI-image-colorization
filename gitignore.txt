@@ -1,0 +1,51 @@
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+dist
+build
+*.egg
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.db
+*.sqlite3
+
+# Virtual Environment
+.env
+*.env
+venv
+virtualenv
+
+# Machine Learning Models
+*.keras
+*.pth
+*.h5
+*.pt
+*.pth.tar.gz
+*.model
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+.pydevd/
+.pycharm/
+.atom/
+.sublime/
